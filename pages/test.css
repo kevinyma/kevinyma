@@ -1,0 +1,12 @@
+.container{
+	width: 70%;
+	max-width: 900px; /*width: 1000px;*/
+	margin: auto;
+}
+
+
+.text {
+    width: 600px;
+    max-width: 90%;
+    margin: 50px auto;
+}

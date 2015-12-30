@@ -1,0 +1,96 @@
+body {
+	font-family: "Roboto";
+	background-color: white;
+}
+
+.container {
+	background-color: white;
+	padding: 40px;
+}
+
+.menu {
+	transition: background 0.3s, color 0.3s, box-shadow 0.3s;
+	position: fixed;
+	top: 0px;
+	width: 100%; 
+	height: auto; 
+	z-index: 100;
+	background: rgba(255,255,255,0.8);
+	border-bottom: 1px solid #f4f4f4;
+}
+
+.bigger {
+	font-size: 1.4rem;
+	line-height: 1.7rem;
+}
+
+.bigmargin {
+	margin-bottom: 100px;
+}
+p {
+	font-size: 1rem;
+	line-height: 1.5rem;
+}
+
+.container{
+	width: 70%;
+	max-width: 900px; /*width: 1000px;*/
+	margin: auto;
+
+}
+
+
+.littletext {
+	font-size: 0.8rem;
+	line-height: 1.0rem;
+}
+
+.pinkbox {
+	background-color: #FF3CA0;
+	color: white;
+}
+
+h2 {
+	color: black;
+ font-size: 5rem;
+ font-weight: 400;
+ margin-top: 70px;
+ margin-bottom: 0;
+ text-align: left;
+ 
+}
+
+h4 {
+	color: black;
+ font-size: 2.5rem;
+ font-weight: 400;
+ margin-bottom: 200px;
+ text-align: left;
+ 
+}
+
+.paragraph {
+	margin-bottom: 25px;
+}
+
+.centergrid {
+	font-size: 1.4rem;
+	line-height: 2.0rem;
+	background-color: #FF3CA0;
+	color: white;
+	padding: 10px;
+}
+
+.centergrid2 {
+	font-size: 1.3rem;
+	line-height: 1.6rem;
+	font-weight: 400;
+}
+
+.centergrid3 {
+	font-size: 1.5rem;
+	line-height: 1.7rem;
+	font-weight: 300;
+}
+
+
